@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+'use client'
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Header from "./components/header/Header";
@@ -13,11 +13,6 @@ const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
 });
-
-export const metadata: Metadata = {
-  title: "Earn Money by Driving or Get a Ride Now | UrbanCab India",
-  description: "Earn Money by Driving or Get a Ride Now | UrbanCab India",
-};
 
 export default function RootLayout({
   children,
