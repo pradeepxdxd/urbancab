@@ -17,16 +17,16 @@ export default function help() {
             height={100}
           />
         </div>
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center items-center bg-gradient-to-t from-[#ededed] via-purple-50 to-[#ededed]">
           <div className="max-w-[60%] sm:max-w-[50%]">
-            <h1 className="text-lg sm:text-5xl font-bold my-10">
+            <h1 className="text-lg sm:text-5xl font-bold my-4 mt-10 sm:my-10">
               Drive when you want, make what you need
             </h1>
-            <h1 className="font-thin my-10">
+            <h1 className="font-thin my-0 sm:my-10">
               Make money on your schedule with deliveries or rides—or both. You
               can use your own car or choose a rental through UrbanCab.
             </h1>
-            <div className="my-10 flex gap-5">
+            <div className="my-4 sm:my-10 flex gap-5">
               <button className="text-white bg-black px-5 py-3 rounded-lg">
                 Get started
               </button>
@@ -39,16 +39,16 @@ export default function help() {
       </div>
 
       <div className="lg:grid lg:grid-cols-2 lg:my-36 my-7 flex flex-col-reverse">
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center items-center bg-gradient-to-t from-[#ededed] via-pink-50 to-[#ededed]">
           <div className="lg:ml-20 max-w-[60%] sm:max-w-[50%]">
-            <h1 className="text-lg sm:text-5xl font-bold my-10">
+            <h1 className="text-lg sm:text-5xl font-bold my-4 mt-10 sm:my-10">
               The Uber you know, reimagined for business
             </h1>
-            <h1 className="font-thin my-10">
+            <h1 className="font-thin my-0 sm:my-10">
               Uber for Business is a platform for managing global rides and
               meals, and local deliveries, for companies of any size.
             </h1>
-            <div className="my-10 flex gap-5">
+            <div className="my-4 sm:my-10 flex gap-5">
               <button className="text-white bg-black px-5 py-3 rounded-lg">
                 Get started
               </button>
@@ -79,16 +79,16 @@ export default function help() {
             height={100}
           />
         </div>
-        <div className="flex justify-center items-center">
+        <div className="flex justify-center items-center  bg-gradient-to-b from-[#ededed] via-green-50 to-[#ededed]">
           <div className="max-w-[60%] sm:max-w-[50%]">
-            <h1 className="text-lg sm:text-5xl font-bold my-10">
+            <h1 className="text-lg sm:text-5xl font-bold my-4 mt-10 sm:my-10">
               Make money by renting out your car
             </h1>
-            <h1 className="font-thin my-10">
+            <h1 className="font-thin my-0 sm:my-10">
               Connect with thousands of drivers and earn more per week with
               Uber’s free fleet management tools.
             </h1>
-            <div className="my-10 flex gap-5">
+            <div className="my-4 sm:my-10 flex gap-5">
               <button className="text-white bg-black px-5 py-3 rounded-lg">
                 Get started
               </button>
