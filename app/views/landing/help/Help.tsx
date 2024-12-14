@@ -18,7 +18,7 @@ export default function help() {
           />
         </div>
         <div className="flex justify-center items-center">
-          <div className="max-w-[60%]">
+          <div className="max-w-[60%] sm:max-w-[50%]">
             <h1 className="text-lg sm:text-5xl font-bold my-10">
               Drive when you want, make what you need
             </h1>
@@ -40,7 +40,7 @@ export default function help() {
 
       <div className="lg:grid lg:grid-cols-2 lg:my-36 my-7 flex flex-col-reverse">
         <div className="flex justify-center items-center">
-          <div className="lg:ml-20 max-w-[60%]">
+          <div className="lg:ml-20 max-w-[60%] sm:max-w-[50%]">
             <h1 className="text-lg sm:text-5xl font-bold my-10">
               The Uber you know, reimagined for business
             </h1>
@@ -80,7 +80,7 @@ export default function help() {
           />
         </div>
         <div className="flex justify-center items-center">
-          <div className="max-w-[60%]">
+          <div className="max-w-[60%] sm:max-w-[50%]">
             <h1 className="text-lg sm:text-5xl font-bold my-10">
               Make money by renting out your car
             </h1>
