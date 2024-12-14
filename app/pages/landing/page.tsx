@@ -2,7 +2,6 @@ import React from "react";
 import Ride from "@/app/views/landing/ride/Ride";
 import Suggestion from "@/app/views/landing/suggestion/Suggestion";
 import Help from "@/app/views/landing/help/Help";
-// import ScanAuth from "@/app/views/landing/scanAuth/ScanAuth";
 
 export default function page() {
   return (
@@ -10,7 +9,6 @@ export default function page() {
       <Ride />
       <Suggestion />
       <Help />
-      {/* <ScanAuth /> */}
     </div>
   );
 }

@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Map() {
   return (
-    <div className="flex mt-20 justify-center lg:justify-start">
+    <div className="flex m-10 mt-20 justify-center lg:justify-start">
       <Image
         className="rounded-md cursor-grab"
         src={"/map.jpg"}

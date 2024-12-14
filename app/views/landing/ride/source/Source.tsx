@@ -5,7 +5,7 @@ import { TbLocationFilled } from "react-icons/tb";
 
 export default function Source() {
   return (
-    <div className=" mt-4 flex justify-center">
+    <div className="m-4 mt-10 flex justify-center">
       <div className="flex flex-col justify-center">
         <h1 className="font-bold text-4xl max-w-[70%]">
           Go anywhere with UrbanCab
